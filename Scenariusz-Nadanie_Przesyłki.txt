@@ -1,0 +1,26 @@
+UCI: Nadanie paczki
+
+Główny scenariusz:
+1. Klient przynosi paczkę
+2. Klient wypełnia formularz wysyłki
+3. Pracownik odbiera paczkę i formuluarz
+4. Pracownik wprowadza dane do Systemu
+5. Pracownik odbiera zapłate i wystawia fakturę
+6. Przesyłka zabierana jest do magazynu
+7. Pracownicy magazynu naklejają na paczkę dane wprowadzane przez klienta
+8. Kurier odbiera przesyłkę
+9. Kurier dostarcza przesyłkę
+
+
+
+Rozszerzenia:
+
+4.A. Przekazane dane są błędne
+	4.A.1. Pracownik prosi o ponowne wprowadzenie danych(powrót do 2)
+9.A. Przesyłka nie została odebrana
+	9.A.1. Poinformowanie telefonicznie odbiorcy
+	9.A.2. Kurier oddaje paczkę do najbliższego węzła
+	9.A.3. Ponowna próba dostarczenia przesyłki
+9.B. Odbiorca rezygnuje z przesyłki
+	9.B.1. Kurier oddaje paczkę do najbliższego węzła
+	9.B.2. Przesyłka jest zwracana do nadawcy
