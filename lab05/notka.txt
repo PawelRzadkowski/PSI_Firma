@@ -1,2 +1,0 @@
-Dodac moze po dwukropku rodzaj danych np imie:String
-w niektorych modelach jest to w niektorych nie idk
