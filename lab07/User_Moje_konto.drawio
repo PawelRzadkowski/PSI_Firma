@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+  <diagram name="Strona-1" id="Km8-5z5wj6EM1EKiT5B_">
+    <mxGraphModel dx="1426" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JfAREelSMfDCFGKYSH0z-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" width="820" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-2" value="Paczka24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="180" y="15" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+          <mxGeometry x="780" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-4" value="Użytkownik: X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="21.4" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.most_viewed;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="23.6" width="28.2" height="22.8" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-6" value="Wyszukaj..." style="rounded=1;whiteSpace=wrap;html=1;align=left;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.magnifying_glass_2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="92.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="30" y="7.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-9" value="Wyloguj" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="23.6" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="255" y="90" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-11" value="Nazwa użytkownika" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-12" value="Email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="282" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="242" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="312" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-16" value="Zmień hasło" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="402" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAREelSMfDCFGKYSH0z-17" value="Tu jesteś:&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Strona główna &amp;gt; Moje konto&lt;/u&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="92.5" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
